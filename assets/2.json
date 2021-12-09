@@ -1,0 +1,19 @@
+{
+  "name": "Spidey",
+  "symbol": "",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "3LKQMrSniFYZBJyxgt4hfj8Ukwdcia5xWqxanwmF8ZGe",
+        "share": 100
+      }
+    ]
+  }
+}
