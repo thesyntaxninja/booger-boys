@@ -77,7 +77,7 @@ const App = () => {
     <div className="App">
       <div className="container">
         <div className="header-container">
-          <p className="header">The Booger Boys Club</p>
+          <p className="header">The Booger Boys</p>
           <p className="sub-text">NFT drop machine with fair mint</p>
           {/* Add the condition to show this only if we don't have a wallet address */}
           {!walletAddress && renderNotConnectedContainer()}
@@ -89,7 +89,7 @@ const App = () => {
             href={TWITTER_LINK}
             target="_blank"
             rel="noreferrer"
-          >{`Booger Boys Club @${TWITTER_HANDLE}`}</a>
+          >{`The Booger Boys @${TWITTER_HANDLE}`}</a>
         </div>
       </div>
     </div>
